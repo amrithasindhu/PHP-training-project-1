@@ -5,7 +5,7 @@ require_once("student.php");
 
 class incorrectvalues extends Exception {
     public function agecheck() {
-        return 'Enter the age between 0 and 120. Also, the age should be a number';
+        return 'Enter the age between 0 and 120. ';
     }
     public function classcheck() {
         return 'Enter the class';
