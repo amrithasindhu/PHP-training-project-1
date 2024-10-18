@@ -8,7 +8,7 @@ $students = $studentObj->getStudents();
 ?>
 <div class="box1">
 <button type="button" class="btn btn-primary" data-bs-toggle ="modal" data-bs-target="#exampleModal">
-Add Students
+Add Student
 </button>
   </div>
     <table class="table table-hover table-bordered table-striped" >
